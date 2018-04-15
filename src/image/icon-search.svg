@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-search</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="320" height="40" rx="4"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.2-营销活动管理-新增/编辑" transform="translate(-462.000000, -342.000000)">
+            <g id="input_icon" transform="translate(450.000000, 330.000000)">
+                <g id="input">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#DCDFE6" stroke-width="1" x="0.5" y="0.5" width="319" height="39" rx="4"></rect>
+                </g>
+                <path d="M16,18 L16,26 L28,26 L28,15 L26,15 L26,16 L25,16 L25,15 L19,15 L19,16 L18,16 L18,15 L16,15 L16,17 L28,17 L28,18 L16,18 Z M19,14 L25,14 L25,13 L26,13 L26,14 L29,14 L29,27 L15,27 L15,14 L18,14 L18,13 L19,13 L19,14 Z M18,20 L20,20 L20,21 L18,21 L18,20 Z M18,23 L20,23 L20,24 L18,24 L18,23 Z M21,20 L23,20 L23,21 L21,21 L21,20 Z M21,23 L23,23 L23,24 L21,24 L21,23 Z M24,20 L26,20 L26,21 L24,21 L24,20 Z M24,23 L26,23 L26,24 L24,24 L24,23 Z" id="icon_date" fill="#B4BCCC" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

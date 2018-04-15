@@ -1,0 +1,22 @@
+{
+  "name": "01.webpack-review",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server  --port 8080 --open chrome --host 127.0.0.1 --compress --progress --hot",
+    "pub": "webpack --progress"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.30.1",
+    "webpack": "^3.11.0",
+    "webpack-dev-middleware": "^3.0.1",
+    "webpack-dev-server": "^2.11.2",
+    "webpack-hot-middleware": "^2.21.2"
+  },
+  "dependencies": {}
+}
